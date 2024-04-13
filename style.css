@@ -1,0 +1,111 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+body {
+  background-color: #f0f2f5;
+}
+#main {
+  width: 80%;
+  height: 270px;
+  /* background-color: rgb(235, 146, 235); */
+  display: flex;
+  margin-top: 120px;
+  margin-left: 241px;
+  gap: 20px;
+}
+#name {
+  margin-top: 60px;
+}
+#name img {
+  width: 324px;
+  height: 104px;
+}
+#name h2 {
+  font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+  padding-left: 36px;
+  padding-right: 20px;
+  /* background-color: red; */
+  width: 512px;
+  font-weight: 500;
+  margin-top: -11px;
+  font-size: 27px;
+}
+#form {
+  border: 2px solid rgb(198, 195, 195);
+  width: 396px;
+  border-radius: 9px;
+  height: 314.83px;
+  background-color: white;
+  padding: 10px;
+}
+input {
+  margin-top: 15px;
+  margin-left: 11px;
+  width: 90%;
+  height: 33px;
+  padding: 8px;
+  border-radius: 4px;
+  border: 1px solid rgb(198, 195, 195);
+  color: #f0f2f5;
+}
+input:hover {
+  border: 2px solid rgb(75, 75, 235);
+}
+#b1 {
+  width: 93%;
+  text-align: center;
+  margin-top: 23px;
+  margin-left: 14px;
+  height: 42px;
+  background-color: #0866ff;
+  color: white;
+  font-size: 700;
+  border-radius: 4px;
+}
+
+#email{
+  margin-top: 3px;
+}
+#b2 {
+  width: 50%;
+  text-align: center;
+  margin-top: 23px;
+  margin-left: 99px;
+  height: 45px;
+  background-color: #42b72a;;
+  color: white;
+  font-size: 700;
+  border-radius: 4px;
+}
+#atag {
+  text-align: center;
+  margin-top: 15px;
+  font-size: small;
+}
+line{
+  margin-top: 2px;
+  padding-left: 2px;
+  padding-right: 2px;
+  border: 1px solid black;
+}
+
+#last a{
+
+  text-decoration: none;
+  font-weight: 700;
+  
+
+}
+#last{
+
+  /* background-color: red; */
+  margin-top: 100px;
+  margin-left: 570px;
+  text-align: center;
+  font-size: 15px;
+
+}
+
+
